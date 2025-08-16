@@ -35,11 +35,11 @@
 
 <div align="left">
  <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,tailwind,bootstrap,python,linux,npm" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,npm,express,mysql,mongodb,python,linux" height="40" />
 </div>
 
 <div align="left" style="margin-top: 10px;">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify," height="40" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify,docker,aws," height="40" />
 </div>
 </div>
 
