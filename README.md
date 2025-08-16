@@ -35,7 +35,7 @@
 
 <div align="left">
  <div align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,npm,express,mysql,mongodb,python,linux" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,materialui,nodejs,npm,express,mysql,mongodb,python,linux" height="80" />
 </div>
 
 <div align="left" style="margin-top: 10px;">
